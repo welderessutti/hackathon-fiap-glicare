@@ -190,11 +190,11 @@ containers isolados, garantindo um ambiente padronizado e de fácil execução.
 Para clonar o repositório, use o comando:
 
 ```bash
-git clone https://github.com/welderessutti/hackathon-fiap-diabetes
+git clone https://github.com/welderessutti/hackathon-fiap-glicare.git
 ```
 
 Caso não queira clonar o repositório, você pode baixá-lo
-em [GitHub](https://github.com/welderessutti/hackathon-fiap-diabetes).
+em [GitHub](https://github.com/welderessutti/hackathon-fiap-glicare).
 
 ### Passo 2: Executar a aplicação com Docker
 
