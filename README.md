@@ -250,9 +250,7 @@ Após subir os containers com `docker compose up -d`, use os endereços abaixo p
 
 ## Coleções de API (Postman/Insomnia)
 
-As coleções de requisições do Postman e Insomnia estão disponíveis no diretório:
-
-`api-requests/`
+As coleções de requisições do Postman e Insomnia estão disponíveis no diretório `api-requests/`
 
 Se você deseja testar os endpoints da API, basta importar os arquivos de coleção no Postman ou Insomnia e executar as
 requisições conforme necessário.
