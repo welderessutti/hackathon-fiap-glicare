@@ -108,8 +108,8 @@ longo prazo.
 ## Arquitetura
 
 Nosso sistema foi desenvolvido seguindo a **Arquitetura Hexagonal** em todas as APIs e microsserviços, garantindo um
-design **modular, desacoplado e testável**. Além disso, utilizamos o **padrão RESTful** e os princípios **SOLID**,
-promovendo **manutenibilidade e extensibilidade** do código.
+design **modular, desacoplado e testável**. Além disso, utilizamos o padrão **RESTful** e os princípios **SOLID**,
+para manter o código organizado, fácil de manter e expandir.
 
 Optamos por uma **arquitetura baseada em microsserviços** para garantir **escalabilidade** e **resiliência** ao sistema:
 
