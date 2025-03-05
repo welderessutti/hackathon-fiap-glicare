@@ -242,8 +242,8 @@ Após subir os containers com `docker compose up -d`, use os endereços abaixo p
 | **Banco de Dados Exam**      | PostgreSQL    | `localhost:5433/diabetes_exam` |
 | **API Diagnosis**            | Microsserviço | `http://localhost:8082`        |
 | **Banco de Dados Diagnosis** | PostgreSQL    | `localhost:5434/diagnosis`     |
-| **Microsserviço Scheduling** | Microsserviço | *Se comunica via RabbitMQ*     |
-| **Microsserviço Email**      | Microsserviço | *Se comunica via RabbitMQ*     |
+| **MS Scheduling**            | Microsserviço | *Se comunica via RabbitMQ*     |
+| **MS Email**                 | Microsserviço | *Se comunica via RabbitMQ*     |
 | **RabbitMQ**                 | Mensageria    | `localhost:5672`               |
 | **Painel RabbitMQ**          | Dashboard     | `http://localhost:15672`       |
 
