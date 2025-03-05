@@ -234,19 +234,18 @@ SPRING_MAIL_USERNAME="SEU_EMAIL" SPRING_MAIL_PASSWORD="SUA_SENHA" docker compose
 
 Após subir os containers com `docker compose up -d`, use os endereços abaixo para acessar os serviços:
 
-| Serviço                       | Tipo          | Porta/Endereço de Acesso       |
-|-------------------------------|---------------|--------------------------------|
-| **API Patient**               | Microsserviço | `http://localhost:8080`        |
-| **Banco de Dados Patient**    | PostgreSQL    | `localhost:5432/patient`       |
-| **API Exam**                  | Microsserviço | `http://localhost:8081`        |
-| **Banco de Dados Exam**       | PostgreSQL    | `localhost:5433/diabetes_exam` |
-| **API Diagnosis**             | Microsserviço | `http://localhost:8082`        |
-| **Banco de Dados Diagnosis**  | PostgreSQL    | `localhost:5434/diagnosis`     |
-| **Microsserviço Scheduling**  | Microsserviço | `http://localhost:8083`        |
-| **Banco de Dados Scheduling** | PostgreSQL    | `localhost:5435/scheduling`    |
-| **Microsserviço Email**       | Microsserviço | *Se comunica via RabbitMQ*     |
-| **RabbitMQ**                  | Mensageria    | `localhost:5672`               |
-| **Painel RabbitMQ**           | Dashboard     | `http://localhost:15672`       |
+| Serviço                      | Tipo          | Porta/Endereço de Acesso       |
+|------------------------------|---------------|--------------------------------|
+| **API Patient**              | Microsserviço | `http://localhost:8080`        |
+| **Banco de Dados Patient**   | PostgreSQL    | `localhost:5432/patient`       |
+| **API Exam**                 | Microsserviço | `http://localhost:8081`        |
+| **Banco de Dados Exam**      | PostgreSQL    | `localhost:5433/diabetes_exam` |
+| **API Diagnosis**            | Microsserviço | `http://localhost:8082`        |
+| **Banco de Dados Diagnosis** | PostgreSQL    | `localhost:5434/diagnosis`     |
+| **Microsserviço Scheduling** | Microsserviço | *Se comunica via RabbitMQ*     |
+| **Microsserviço Email**      | Microsserviço | *Se comunica via RabbitMQ*     |
+| **RabbitMQ**                 | Mensageria    | `localhost:5672`               |
+| **Painel RabbitMQ**          | Dashboard     | `http://localhost:15672`       |
 
 ## Coleções de API (Postman/Insomnia)
 
