@@ -128,6 +128,19 @@ services:
     networks:
       - hackathon-fiap
 
+  app-ms-scheduling:
+    image: welderessutti/ms-scheduling:latest
+    container_name: app-ms-scheduling
+    depends_on:
+      broker-rabbitmq:
+        condition: service_healthy
+    environment:
+      SPRING_RABBITMQ_USERNAME: "rabbitmq"
+      SPRING_RABBITMQ_PASSWORD: "rabbitmq"
+      SPRING_RABBITMQ_HOST: "broker-rabbitmq"
+    networks:
+      - hackathon-fiap
+
   app-ms-email:
     image: welderessutti/ms-email:latest
     container_name: app-ms-email
