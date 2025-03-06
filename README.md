@@ -15,7 +15,7 @@
 **🧑‍🦰 [API-Patient](https://github.com/welderessutti/api-patient)** |
 **🧪 [API-Exam](https://github.com/eltonxs/diabetes-exam-management)** |
 **🩺 [API-Diagnosis](https://github.com/welderessutti/api-diagnosis)** |
-**📅 MS-Scheduling** |
+**📅 [MS-Scheduling**](https://github.com/pedr0no/ms-medical-consultant-scheduler)** |
 **📧 [MS-Email](https://github.com/welderessutti/ms-email)**
 
 ## Desafio
@@ -153,7 +153,7 @@ processamento dos dados dos pacientes e no gerenciamento de exames e consultas.
 - Aplica as **regras de negócio** com auxílio da **IA** para determinar se o resultado está **normal** ou **alterado**.
 - Registra o diagnóstico e **envia uma nova mensagem** para o broker com essa informação.
 
-4️⃣ **📅 MS-Scheduling**
+4️⃣ **📅 [MS-Scheduling](https://github.com/pedr0no/ms-medical-consultant-scheduler)**
 
 - Escuta mensagens no **canal de agendamento de exame** e no **canal de agendamento de consulta**.
 - Realiza o agendamento do **exame** ou **consulta**.
