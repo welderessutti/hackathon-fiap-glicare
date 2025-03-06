@@ -15,7 +15,7 @@
 **🧑‍🦰 [API-Patient](https://github.com/welderessutti/api-patient)** |
 **🧪 [API-Exam](https://github.com/eltonxs/diabetes-exam-management)** |
 **🩺 [API-Diagnosis](https://github.com/welderessutti/api-diagnosis)** |
-**📅 [MS-Scheduling**](https://github.com/pedr0no/ms-medical-consultant-scheduler)** |
+**📅 [MS-Scheduling](https://github.com/pedr0no/ms-medical-consultant-scheduler)** |
 **📧 [MS-Email](https://github.com/welderessutti/ms-email)**
 
 ## Desafio
