@@ -10,7 +10,9 @@
 
 # Glicare - Sistema de Gerenciamento de Resultado de Exame, Diagnóstico e Agendamento
 
-_*Este projeto recebeu nota máxima (90/90), ficando entre os quatro melhores projetos de vinte participantes._
+Este projeto recebeu nota máxima (90/90), ficando entre os quatro melhores projetos de vinte participantes.
+
+![Avaliação](images/grade.png)
 
 ## Apresentação do Projeto
 
