@@ -14,7 +14,7 @@ _*Este projeto recebeu nota máxima (90/90), ficando entre os quatro melhores pr
 
 ## Apresentação do Projeto
 
-Nesses drives você encontra o vídeo pitch, o vídeo técnico e o canva da apresentação do projeto.
+Nestes drives você encontra o vídeo pitch, o vídeo técnico e o canva da apresentação do projeto.
 
 - **[Google Drive](https://drive.google.com/drive/folders/1zt3hHM4LRRf_LHeeFHXyPk_18pDxAGu8?usp=sharing)**
 - **[OneDrive](https://1drv.ms/f/c/b36c4e18cf73f0d9/Eq2Yh7QoEd5DlOlcaAqxIxwBA8-r_WJRITKayT88nbxetw?e=Oc4d2T)**
